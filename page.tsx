@@ -144,27 +144,27 @@ Aunque la vivienda necesita algunos trabajos de reacondicionamiento, es una exce
         <h2 className="text-3xl font-semibold mb-4">Características</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <li className="flex items-center">
-            <ChefHat className="w-6 h-6 mr-2 text-primary" />
+            <ChefHat className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>Cocina</span>
           </li>
           <li className="flex items-center">
-            <Sofa className="w-6 h-6 mr-2 text-primary" />
+            <Sofa className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>Sala de estar y comedor</span>
           </li>
           <li className="flex items-center">
-            <DoorOpen className="w-6 h-6 mr-2 text-primary" />
+            <DoorOpen className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>2 dormitorios en casa principal</span>
           </li>
           <li className="flex items-center">
-            <Utensils className="w-6 h-6 mr-2 text-primary" />
+            <Utensils className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>Patio trasero con parrilla</span>
           </li>
           <li className="flex items-center">
-            <Car className="w-6 h-6 mr-2 text-primary" />
+            <Car className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>Monoambiente atrás con baño incluido</span>
           </li>
           <li className="flex items-center">
-            <Shield className="w-6 h-6 mr-2 text-primary" />
+            <Shield className={`w-6 h-6 mr-2 text-primary ${theme === 'dark' ? 'text-white' : ''}`} />
             <span>Sistema de seguridad instalado</span>
           </li>
         </ul>
