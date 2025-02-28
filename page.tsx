@@ -65,6 +65,12 @@ export default function CasaEnVenta() {
 
       {/* Hero Section con ImageCarousel */}
       <section className="mb-8">
+      <div className="text-center mb-6">
+          <h1 className="text-4xl md:text-5xl font-bold mb-2">Exclusiva Residencia Familiar en Venta</h1>
+          <p className="text-xl text-muted-foreground">
+            El hogar perfecto que combina confort, elegancia y ubicación privilegiada
+          </p>
+        </div>
         <ImageCarousel images={images} />
       </section>
 
