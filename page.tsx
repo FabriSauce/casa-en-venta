@@ -129,9 +129,13 @@ export default function CasaEnVenta() {
       <section className="mb-8">
         <h2 className="text-3xl font-semibold mb-4">Descripción</h2>
         <p className="text-lg">
-          Esta hermosa casa ofrece un espacio acogedor y moderno para vivir. Con amplias habitaciones, una cocina
-          totalmente equipada y un jardín encantador, es el hogar perfecto para una familia. Ubicada en un vecindario
-          tranquilo pero cerca de todas las comodidades, esta propiedad combina confort y conveniencia.
+        Esta acogedora casa familiar es ideal para quienes buscan un lugar tranquilo y con gran potencial para renovar a su gusto. Con 2 cómodas habitaciones, un baño, cocina, lavadero y un amplio salón-comedor, ofrece todo lo necesario para una vida cómoda. En la parte posterior de la casa, encontrarás una habitación adicional con baño privado, ideal para un hijo o un familiar. El espacioso patio está rodeado por grandes árboles de palta, pomelo y mango, proporcionando una excelente sombra para disfrutar de tardes al aire libre. Además, cuenta con una parrilla, perfecta para compartir en familia o con amigos.
+
+Ubicada a solo 5 minutos en auto del centro de la ciudad, esta casa se encuentra cerca de escuelas, comercios, supermercados y con acceso rápido a una avenida principal y la zona costanera, lo que la convierte en una opción conveniente para quienes buscan estar cerca de todo.
+
+Aunque la vivienda necesita algunos trabajos de reacondicionamiento, es una excelente oportunidad para quienes buscan un proyecto de renovación o simplemente un hogar donde vivir cómodamente desde el primer día. Con un terreno amplio y bien ubicado, es la opción perfecta para una familia que quiera darle su propio toque, o para un contratista que vea el gran potencial de esta propiedad.
+
+
         </p>
       </section>
 
