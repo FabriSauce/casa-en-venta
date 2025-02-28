@@ -6,11 +6,6 @@ Este proyecto es una aplicación web para mostrar los detalles de una casa en ve
 
 - [Descripción](#descripción)
 - [Características](#características)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Descripción
 
